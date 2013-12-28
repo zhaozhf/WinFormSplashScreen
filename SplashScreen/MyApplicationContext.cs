@@ -9,7 +9,7 @@ namespace SplashScreen
     class MyApplicationContext : ApplicationContext 
     {
         private Logon logon=new Logon();
-        private Form1 form1=new Form1();
+        private MainForm form1=new MainForm();
 
     }
 }

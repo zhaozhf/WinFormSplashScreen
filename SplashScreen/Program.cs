@@ -38,7 +38,7 @@ namespace SplashScreen
 
                     //Application.ThreadException += new System.Threading.ThreadExceptionEventHandler(Application_ThreadException);
                     //Application.Run(gc.MainDialog);
-                    Application.Run(new Form1());
+                    Application.Run(new MainForm());
                 }
 
             }
